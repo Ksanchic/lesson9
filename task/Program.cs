@@ -14,10 +14,3 @@ int Akkerman (int m, int n)
   else return Akkerman(m - 1, Akkerman(m, n - 1));
 
 }
-
-// int InputNumbers(string input) 
-// {
-//   Console.Write(input);
-//   int output = Convert.ToInt32(Console.ReadLine());
-//   return output;
-// }
