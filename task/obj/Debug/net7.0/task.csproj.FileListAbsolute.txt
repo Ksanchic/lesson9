@@ -1,0 +1,15 @@
+/Users/krr/Desktop/oks/task9/task/bin/Debug/net7.0/task
+/Users/krr/Desktop/oks/task9/task/bin/Debug/net7.0/task.deps.json
+/Users/krr/Desktop/oks/task9/task/bin/Debug/net7.0/task.runtimeconfig.json
+/Users/krr/Desktop/oks/task9/task/bin/Debug/net7.0/task.dll
+/Users/krr/Desktop/oks/task9/task/bin/Debug/net7.0/task.pdb
+/Users/krr/Desktop/oks/task9/task/obj/Debug/net7.0/task.csproj.AssemblyReference.cache
+/Users/krr/Desktop/oks/task9/task/obj/Debug/net7.0/task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krr/Desktop/oks/task9/task/obj/Debug/net7.0/task.AssemblyInfoInputs.cache
+/Users/krr/Desktop/oks/task9/task/obj/Debug/net7.0/task.AssemblyInfo.cs
+/Users/krr/Desktop/oks/task9/task/obj/Debug/net7.0/task.csproj.CoreCompileInputs.cache
+/Users/krr/Desktop/oks/task9/task/obj/Debug/net7.0/task.dll
+/Users/krr/Desktop/oks/task9/task/obj/Debug/net7.0/refint/task.dll
+/Users/krr/Desktop/oks/task9/task/obj/Debug/net7.0/task.pdb
+/Users/krr/Desktop/oks/task9/task/obj/Debug/net7.0/task.genruntimeconfig.cache
+/Users/krr/Desktop/oks/task9/task/obj/Debug/net7.0/ref/task.dll
